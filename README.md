@@ -1,1 +1,1 @@
-hello my name is tsegay and i am from MERN stack developer. thanks for downloading this website . 
+hello my name is tsegay and i am from MERN stack developer. thanks for downloading this website . please follow me  i will add some money prjects
